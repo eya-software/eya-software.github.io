@@ -562,7 +562,7 @@ b,strong{
 .button{
     display:-webkit-inline-box;
     display:inline-flex;
-    font-size:14px;
+    font-size:15px;
     line-height:22px;
     font-weight:700;
     padding:12px 31px;
@@ -637,7 +637,9 @@ b,strong{
 }
 .button-primary{
     color:#F9FAFF;
-    background-color:#376DF9
+    background-color:#376DF9;
+    outline-style: round;
+    border-radius: 10px;
 }
 .button-primary:hover{
     background-color:#4678f9
