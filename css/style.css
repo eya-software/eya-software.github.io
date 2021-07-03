@@ -789,7 +789,7 @@ textarea.form-input{
 }
 .form-select{
     padding-right:46px;
-    background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20viewBox%3D%220%200%2016%2016%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%2011.4L2.6%206%204%204.6l4%204%204-4L13.4%206%208%2011.4z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E");
+    /* background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20viewBox%3D%220%200%2016%2016%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%2011.4L2.6%206%204%204.6l4%204%204-4L13.4%206%208%2011.4z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E"); */
     background-position:right 15px center;
     background-repeat:no-repeat;
     background-size:16px 16px
@@ -974,7 +974,7 @@ textarea.form-input{
 }
 .form-slider input[type=range]::-ms-thumb{
     background-color:#376DF9;
-    background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E");
+    /* background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E"); */
     background-position:center;
     background-repeat:no-repeat;
     border:0;
@@ -1002,7 +1002,7 @@ textarea.form-input{
     color:#292B32
 }
 .invert-color .form-select{
-    background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20viewBox%3D%220%200%2016%2016%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%2011.4L2.6%206%204%204.6l4%204%204-4L13.4%206%208%2011.4z%22%20fill%3D%22%23292B32%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E")
+    /* background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20viewBox%3D%220%200%2016%2016%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%2011.4L2.6%206%204%204.6l4%204%204-4L13.4%206%208%2011.4z%22%20fill%3D%22%23292B32%22%20fill-rule%3D%22evenodd%22%2F%3E%3C%2Fsvg%3E") */
 }
 .invert-color .form-checkbox,.invert-color .form-radio{
     color:#292B32
@@ -1012,13 +1012,13 @@ textarea.form-input{
     border-color:crimson
 }
 .invert-color .form-slider input[type=range]::-webkit-slider-thumb{
-    background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E")
+    /* background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E") */
 }
 .invert-color .form-slider input[type=range]::-moz-range-thumb{
-    background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E")
+    /* background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E") */
 }
 .invert-color .form-slider input[type=range]::-ms-thumb{
-    background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E")
+    /* background-image:url("data:image/svg+xmlcharset=US-ASCII,%3Csvg%20width%3D%2212%22%20height%3D%228%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M8%20.5v7L12%204zM0%204l4%203.5v-7z%22%20fill%3D%22%23F9FAFF%22%20fill-rule%3D%22nonzero%22%2F%3E%3C%2Fsvg%3E") */
 }
 .form-group{
     display:-webkit-box;
@@ -2475,8 +2475,8 @@ ul.pricing-item-features-list li{
     width:100%;
     max-width:100%;
     height:612px;
-    /* background-image:url(../images/illustration-section-01.svg); */
-	background-image:url(../images/blobPage.svg);
+    background-image:url(../images/illustration-section-01.svg);
+	/* background-image:url(../images/blobPage.svg); */
     background-repeat:no-repeat;
     background-size:auto;
     left:50%;
