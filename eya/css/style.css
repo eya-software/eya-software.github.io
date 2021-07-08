@@ -3083,19 +3083,31 @@ img.has-shadow{
 .phone_blobs_app{
     display:none;
 }
-
-@media (max-width: 640px){
+@media (max-width: 500px){
     .phone_blobs{
-        margin-top:-42vh;
+        margin-top:-107vh;
         display:inline-block;
         float:right;
-        margin-right:-40px;
+        margin-right:-20px;
         position: relative;
         width:1000px;
         height:130px;
     }
-    .phone_blobs_app{
-        margin-top:-5vh;
+}
+@media (min-width: 500px) and (max-width: 640px){
+    .phone_blobs{
+        margin-top:-90vh;
+        display:inline-block;
+        float:right;
+        margin-right:40px;
+        position: relative;
+        width:1000px;
+        height:130px;
+    }
+}
+@media (max-width: 405px){
+.phone_blobs_app{
+        margin-top:-95vh;
         display:inline-block;
         float:right;
         margin-right:-60px;
@@ -3103,6 +3115,78 @@ img.has-shadow{
         width:1000px;
         height:130px;
 
+    }
+}
+@media (min-width: 406px) and (max-width:570px){
+.phone_blobs_app{
+        margin-top:-70vh;
+        display:inline-block;
+        float:right;
+        margin-right:-20px;
+        position: relative;
+        width:1000px;
+        height:130px;
+
+    }
+}
+@media (min-width: 571px) and (max-width:570px){
+.phone_blobs_app{
+        margin-top:-90vh;
+        display:inline-block;
+        float:right;
+        margin-right:-20px;
+        position: relative;
+        width:1000px;
+        height:130px;
+
+    }
+}
+@media (min-width: 571px) and (max-width:640px){
+.phone_blobs_app{
+        margin-top:-60vh;
+        display:inline-block;
+        float:right;
+        margin-right:35px;
+        position: relative;
+        width:1000px;
+        height:130px;
+
+    }
+}
+@media (min-width: 641px) and (max-width:820px){
+.phone_blobs_app{
+        margin-top:-70vh;
+        display:inline-block;
+        float:right;
+        margin-right:35px;
+        position: relative;
+        width:1000px;
+        height:130px;
+
+    }
+}
+@media (min-width: 821px){
+.phone_blobs_app{
+        margin-top:-60vh;
+        display:inline-block;
+        float:right;
+        margin-right:60px;
+        position: relative;
+        width:1000px;
+        height:130px;
+
+    }
+}
+@media (min-width: 935px){
+.phone_blobs_app{
+
+        margin-right:220px;
+    }
+}
+@media (max-width: 419px){
+    .blobby {
+        height:700px;
+        width:auto;
     }
     .container-m {
         margin-top:-800px;
@@ -3188,6 +3272,30 @@ img.has-shadow{
         margin-top:-500px;
     }
 
+}
+
+
+@media (min-width: 641px){
+    .phone_blobs{
+        margin-top:-60vh;
+        display:inline-block;
+        float:right;
+        margin-right:-480px;
+        position: relative;
+        width:2000px;
+        height:130px;
+    }
+}
+@media (min-width: 1100px){
+    .phone_blobs{
+        margin-top:-60vh;
+        display:inline-block;
+        float:right;
+        margin-right:-110px;
+        position: relative;
+        width:2000px;
+        height:130px;
+    }
 }
 @media (max-width: 820px){
     .phone_mock {
